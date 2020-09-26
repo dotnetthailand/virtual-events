@@ -1,14 +1,15 @@
-# Virtual Events
+# การจัดกิจกรรมเสมือนจริงออนไลน์ (Virtual Events)
 
-ไทย ไทยไ ทย
+ในฐานะผู้จัดงานและผู้มีส่วนร่วมที่มีประสบการณ์ในการจัดกิจกรรมซึ่งเกี่ยวข้องกับอุตสาหกรรมเทคโนโลยีสำคัญๆอยู่เสมอ, เราจำเป็นต้องมั่นใจว่าเรายังสามารถส่งมอบประสบการณ์จัดงานที่ดีให้กับทุกท่านที่เข้าร่วมกิจกรรม ถึงแม้ว่ารูปแบบจะเปลี่ยนมาเป็นแบบเสมือนจริงและออนไลน์มากขึ้นอันเนื่องมาจาก COVID-19. Repository นี้มีไว้ช่วยให้เราเข้าถึงและร่วมกิจกรรมออนไลน์ได้อย่างสะดวกและมีประสิทธิภาพ ยังคงช่วยให้เราเรียนรู้และพัฒนาตัวเอง, ได้มีโอกาสพบปะพูดคุยและแลกเปลี่ยนความรู้ร่วมกันอย่างสม่ำเสมอ 
   
-## Usage
+## การใช้งาน
 
-Utilize this repository to reference the [Virtual Event Playbook](./playbook.md) to help transition typically in-person held events to virtually held events, produce new online experiences, receive guidance on various online event platforms, and learn best practices. A [Code of Conduct](./virtual-event-code-of-conduct.md) is included, since a Code of Conduct should be published for any in-person or virtual experience, no matter the audience or subject matter.
+เริ่มต้นเปิดประสบการณ์ใหม่ด้วยเนื้อหา [Virtual Event Playbook](./playbook.md) ซึ่งจะช่วยแนะนำการปรับตัวจากการเข้าร่วมงานตามปรกติไปเป็นการเข้าร่วมกิจกรรมเสมือนจริง, เข้าถึงประสบการณ์ออนไลน์ใหม่ ๆ,  รับคำแนะนำเกี่ยวกับแพลตฟอร์มกิจกรรมออนไลน์ต่างๆ และเรียนรู้แนวทางปฏิบัติที่ดี นอกเหนือจากนี้ยังมี [Code of Conduct](./virtual-event-code-of-conduct.md) รวมอยู่ด้วยเนื่องจากข้อกำหนดเกี่ยวกับจริยธรรมของผู้จัดไม่ว่าจะเป็นงานปรกติหรืองานออนไลน์ล้วนเป็นสิ่งจำเป็นต่อผู้ร่วมงานและเนื้อหาในงาน
 
-## Why
+## ทำไมต้องจัดกิจกรรมเสมือนจริงออนไลน์ 
 
-COVID-19 specifically has caused an enormous amount of disruption in our daily lives and the way we network, educate, and communicate with one another. As a community, we must be able to effectively produce experiences in these strictly online and physically-distant circumstances, while also obtaining best practices for online experiences during and post COVID-19. When executed effectively, online events provide a large amount of benefits that in-person sometimes cannot like inclusivity, accessibility, and convenience. Our hope is that these learnings can be gathered for better forms of communication and potentially combined with in-person and online events in the future.
+COVID-19 สร้างผลกระทบต่อกิจกรรมในสังคมเป็นอย่างมากโดยเฉพาะเรื่องของของการติดต่อสื่อสารและการศึกษา เพราะเราไม่สามารถอยู่ร่วมกันในพื้นที่เดียวกันได้ตามปรกติเพื่อลดความเสี่ยงต่อการติดเชื่้อ ในฐานะของชุมชนที่จัดกิจกรรมนั้นเรายังคงต้องการมอบประสบการณ์การเข้าร่วมกิจกรรมออนไลน์ได้อย่างมีประสิทธิภาพแม้ว่าจะต้องอยู่ห่างกัน, ในขณะเดียวกันก็ต้องได้รับแนวทางปฏิบัติที่ดีที่สุดสำหรับประสบการณ์ออนไลน์ระหว่างและหลังจากเหตุการณ์ COVID-19 สิ้นสุดลง
+เมื่อการดำเนินการเป็นไปได้อย่างมีประสิทธิภาพ, การจัดกิจกรรมออนไลน์จะช่วยมอบประโยชน์ในวงกว้างได้มากกว่าการจัดกิจกรรมในรูปแบบปรกติเพราะเข้าถึงได้สะดวกสบายมากกว่า พวกเราตั้งความคาดหวังไว้ว่าการเรียนรู้เหล่านี้จะถูกรวบรวมและปรับปรุงไปสู่รูปแบบการสื่อสารที่ดีขึ้นและอาจใช้ร่วมกับการจัดกิจกรรมแบบปรกติและออนไลน์ได้ในอนาคต
 
 ## What's Included
 
