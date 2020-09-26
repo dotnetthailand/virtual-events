@@ -11,21 +11,22 @@
 COVID-19 สร้างผลกระทบต่อกิจกรรมในสังคมเป็นอย่างมากโดยเฉพาะเรื่องของของการติดต่อสื่อสารและการศึกษา เพราะเราไม่สามารถอยู่ร่วมกันในพื้นที่เดียวกันได้ตามปรกติเพื่อลดความเสี่ยงต่อการติดเชื่้อ ในฐานะของชุมชนที่จัดกิจกรรมนั้นเรายังคงต้องการมอบประสบการณ์การเข้าร่วมกิจกรรมออนไลน์ได้อย่างมีประสิทธิภาพแม้ว่าจะต้องอยู่ห่างกัน, ในขณะเดียวกันก็ต้องได้รับแนวทางปฏิบัติที่ดีที่สุดสำหรับประสบการณ์ออนไลน์ระหว่างและหลังจากเหตุการณ์ COVID-19 สิ้นสุดลง
 เมื่อการดำเนินการเป็นไปได้อย่างมีประสิทธิภาพ, การจัดกิจกรรมออนไลน์จะช่วยมอบประโยชน์ในวงกว้างได้มากกว่าการจัดกิจกรรมในรูปแบบปรกติเพราะเข้าถึงได้สะดวกสบายมากกว่า พวกเราตั้งความคาดหวังไว้ว่าการเรียนรู้เหล่านี้จะถูกรวบรวมและปรับปรุงไปสู่รูปแบบการสื่อสารที่ดีขึ้นและอาจใช้ร่วมกับการจัดกิจกรรมแบบปรกติและออนไลน์ได้ในอนาคต
 
-## What's Included
+## เอกสารที่เกี่ยวข้อง
 
 * [virtual-event-code-of-conduct.md](./virtual-event-code-of-conduct.md)
-  * A Code of Conduct specifies a baseline standard of behavior so that people with different social values and cultures can communicate effectively, productively, and respectfully. This is imperative at both in-person and virtual events. The Code of Conduct included within this repository can be used for online experiences to both protect and inform the audience of the standards of behavior the organizers require to participate.
+  * Code of Conduct ช่วยระบุมาตรฐานทางด้านจริยธรรมเพื่อให้ผู้คนสามารถสื่อสารได้อย่างมีประสิทธิภาพ, เคารพซึ่งกันและกัน แม้ว่าจะมาจากค่านิยมทางสังคมและวัฒนธรรมที่แตกต่างกัน สิ่งนี้มีความจำเป็นสำหรับการจัดงานทั้งแบบปรกติและในรูปแบบออนไลน์ Code of Conduct ในกิจกรรมนี้ใช้สำหรับป้องกันและแจ้งเตือนผู้เข้าร่วมประสบการณ์ถึงมาตราฐานที่พึงปฎิบัติในการมีส่วนร่วมกับกิจกรรมออนไลน์ในครั้งนี้ร่วมกับผู้อื่น
 * [playbook.md](./playbook.md)
-  * As the organizers and contributors of the technology industry’s most impactful events and community experiences, we need to take a collaborative approach to address the shift to more virtual and online experiences due to COVID-19. Utilize the playbook to review the different types of digital experiences, key digital event elements, virtual event standards and requirements, and additional resources and best practices. 
+  * ในฐานะผู้จัดงานและผู้มีส่วนร่วมที่มีประสบการณ์ในการจัดกิจกรรมซึ่งเกี่ยวข้องกับอุตสาหกรรมเทคโนโลยีสำคัญๆอยู่เสมอ, เราจำเป็นต้องมั่นใจว่าเรายังสามารถส่งมอบประสบการณ์จัดงานที่ดีให้กับทุกท่านที่เข้าร่วมกิจกรรม ถึงแม้ว่ารูปแบบจะเปลี่ยนมาเป็นแบบเสมือนจริงและออนไลน์มากขึ้นอันเนื่องมาจาก COVID-19 ใช้ Playbook เพื่อทบทวนประสบการณ์เรียนรู้แบบดิจิทัลประเภทต่างๆ องค์ประกอบที่สำคัญของกิจกรรม มาตราฐานการจัดกิจกรรมเสมือนออนไลน์ และยังรวมไปถึงเนื้อหาอย่างอื่นที่เกี่ยวข้องและแนวทางที่ควรปฏิบัติ
 * [inclusive-planning-process.md](https://github.com/microsoft/virtual-events/blob/main/inclusive-planning-process.md)
-  * Hosting an inclusive event requires inclusivity intentionally woven throughout the entire event process, especially from the beginning. Utilize this guide to ensure you have a diverse planning committee, inviting diverse speakers and participants, and constantly finding ways to evolve and improve.
+  * การจัดกิจกรรมที่รวบรวมเนื้อหาไว้หลากหลายนั้นต้องอาศัยความร่วมแรงร่วมใจของทุกฝ่ายตลอดทั้งกระบวนการจัดงาน โดยเฉพาะช่วงเริ่มต้นที่ต้องการมากที่สุด ใช้คู่มือนี้เพื่อให้แน่ใจว่าคุณมีกลุ่มคนทำงานร่วมกันที่หลากหลาย ไม่ว่าจะเป็นคณะกรรมการวางแผนงาน, วิทยากรและผู้เข้าร่วม รวมไปถึงการการพัฒนาและปรับปรุงแผนงานอยู่เสมอ
 * [speaker-request-response.md](https://github.com/microsoft/virtual-events/blob/main/speaker-request-response.md)
-  * Virtual events are being organized faster and diversity and inclusion is receiving less prioritization. Included are tools for each speaker and requested participant to ensure diversity and inclusion standards are maintained. Utilize a drafted email and suggested steps that can be sent in response to speaking, sponsoring, and participating requests. 
+  * การจัดกิจกรรมเสมือนจริงนั้นต้องจัดการอย่างรวดเร็ว, ให้ความสำคัญกับความแตกต่างอย่างเท่าเทียมกัน วิทยากรและผู้เข้าร่วมกิจกรรมต้องช่วยกันรักษามาตราฐานนี้ไว้ ใช้อีเมลช่วยในการแนะนำขั้นตอนที่เหมาะสมเพื่อตอบสนองต่อการพูด, การสนับสนุนและการมีส่วนร่วมกับการร้องขอต่างๆที่เข้ามา
 
-## Contributing
+## การมีสวนร่วมในโครงการ
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+โครงการนี้ยินดีรับการสนับสนุนและข้อเสนอแนะ โดยคุณต้องยอมรับข้อตกลงสิทธิ์การใช้งานผู้สนับสนุน ( Contributor License Agreement - CLA) โดยจะเป็นการประกาศว่าคุณเต็มใจมอบสิทธิแก่ทางโครงการในการใช้การสนับสนุนของคุณ ศึกษารายละเอียดเพิ่มเติมได้ที่ https://cla.opensource.microsoft.com
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions provided by the bot. You will only need to do this once across all repos using our CLA.
+เมื่อคุณส่งคำขอสนับสนุนุ (Pull Request - PR), บอท CLA จะกำหนดสิ่งที่คุณต้องจัดเตรียมข้อมููลสำหรับ CLA และ PR ที่เหมาะสมโดยอัตโนมัติ (เช่นการตรวจสอบสถานะ, การแสดงความคิดเห็น) คุณเพียงแค่ทำตามคำแนะนำที่บอทให้ไว้ โดยขั้นตอนนี้จะต้องการเพียงครั้งเดียวในทุก Repositories ของโครงการ
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+โครงการนี้ได้ใช้ [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/)
+สำหรับข้อมูลเพิ่มเติมโปรดดู [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) หรือติดต่อ [opencode@microsoft.com](mailto:opencode@microsoft.com) หากมีคำถามหรือความคิดเห็นเพิ่มเติม
