@@ -6,4 +6,4 @@
 
 - [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/)
 - [Microsoft Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
-- ติดต่อสอบถามหรือข้อสงสัยได้ที่ [opencode@microsoft.com](mailto:opencode@microsoft.com)
+- ติดต่อสอบถามหรือแจ้งข้อสงสัยได้ที่ [opencode@microsoft.com](mailto:opencode@microsoft.com)
